@@ -77,4 +77,4 @@ Files organized successfully!
 
 ## 👨‍💻 Author
 
-Bhavya Chowdhary
+Bhavya Kumari
